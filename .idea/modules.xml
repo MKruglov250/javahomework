@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/homework_Mark.iml" filepath="$PROJECT_DIR$/.idea/homework_Mark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t0_arrayThreeDim/t0_arrayThreeDim.iml" filepath="$PROJECT_DIR$/arraysMulti/t0_arrayThreeDim/t0_arrayThreeDim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t0_creditCard/t0_creditCard.iml" filepath="$PROJECT_DIR$/classesObjects/t0_creditCard/t0_creditCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t0_numberIsIn/t0_numberIsIn.iml" filepath="$PROJECT_DIR$/arrays/t0_numberIsIn/t0_numberIsIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlOperators/t0_timeOfYear_switchCase/t0_timeOfYear_switchCase.iml" filepath="$PROJECT_DIR$/controlOperators/t0_timeOfYear_switchCase/t0_timeOfYear_switchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t1-t2_incrementsDecrements/t1-t2_incrementsDecrements.iml" filepath="$PROJECT_DIR$/Cycles/t1-t2_incrementsDecrements/t1-t2_incrementsDecrements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t1_chessBoard/t1_chessBoard.iml" filepath="$PROJECT_DIR$/arraysMulti/t1_chessBoard/t1_chessBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t1_computer/t1_computer.iml" filepath="$PROJECT_DIR$/classesObjects/t1_computer/t1_computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t1_deleteValues/t1_deleteValues.iml" filepath="$PROJECT_DIR$/arrays/t1_deleteValues/t1_deleteValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlOperators/t1_timeOfYear_if_else/t1_timeOfYear_if_else.iml" filepath="$PROJECT_DIR$/controlOperators/t1_timeOfYear_if_else/t1_timeOfYear_if_else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t2_bankomat/t2_bankomat.iml" filepath="$PROJECT_DIR$/classesObjects/t2_bankomat/t2_bankomat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t2_matrixMultiplication/t2_matrixMultiplication.iml" filepath="$PROJECT_DIR$/arraysMulti/t2_matrixMultiplication/t2_matrixMultiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t2_randArray/t2_randArray.iml" filepath="$PROJECT_DIR$/arrays/t2_randArray/t2_randArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlOperators/t3-t4_oddEven-Temperature/t3-t4_oddEven-Temperature.iml" filepath="$PROJECT_DIR$/controlOperators/t3-t4_oddEven-Temperature/t3-t4_oddEven-Temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t3_compareArrays/t3_compareArrays.iml" filepath="$PROJECT_DIR$/arrays/t3_compareArrays/t3_compareArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t3_phone/t3_phone.iml" filepath="$PROJECT_DIR$/classesObjects/t3_phone/t3_phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t3_rangeUserInput/t3_rangeUserInput.iml" filepath="$PROJECT_DIR$/Cycles/t3_rangeUserInput/t3_rangeUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t3_sumElements/t3_sumElements.iml" filepath="$PROJECT_DIR$/arraysMulti/t3_sumElements/t3_sumElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t4-t6_variousSequences/t4-t6_variousSequences.iml" filepath="$PROJECT_DIR$/Cycles/t4-t6_variousSequences/t4-t6_variousSequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t4_clinic/t4_clinic.iml" filepath="$PROJECT_DIR$/classesObjects/t4_clinic/t4_clinic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t4_diagonalsArray/t4_diagonalsArray.iml" filepath="$PROJECT_DIR$/arraysMulti/t4_diagonalsArray/t4_diagonalsArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t4_randArrCreation/t4_randArrCreation.iml" filepath="$PROJECT_DIR$/arrays/t4_randArrCreation/t4_randArrCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t5_arrayEvenIndexes/t5_arrayEvenIndexes.iml" filepath="$PROJECT_DIR$/arrays/t5_arrayEvenIndexes/t5_arrayEvenIndexes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysMulti/t5_arraySorting/t5_arraySorting.iml" filepath="$PROJECT_DIR$/arraysMulti/t5_arraySorting/t5_arraySorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlOperators/t5_rainbow/t5_rainbow.iml" filepath="$PROJECT_DIR$/controlOperators/t5_rainbow/t5_rainbow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesObjects/t6_loginPassword/t6_loginPassword.iml" filepath="$PROJECT_DIR$/classesObjects/t6_loginPassword/t6_loginPassword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t6_sortStringArray/t6_sortStringArray.iml" filepath="$PROJECT_DIR$/arrays/t6_sortStringArray/t6_sortStringArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t7_Fibbonacci/t7_Fibbonacci.iml" filepath="$PROJECT_DIR$/Cycles/t7_Fibbonacci/t7_Fibbonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/t7_bubbleSort/t7_bubbleSort.iml" filepath="$PROJECT_DIR$/arrays/t7_bubbleSort/t7_bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t8_bankDeposit/t8_bankDeposit.iml" filepath="$PROJECT_DIR$/Cycles/t8_bankDeposit/t8_bankDeposit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/t9_multiplicationTable/t9_multiplicationTable.iml" filepath="$PROJECT_DIR$/Cycles/t9_multiplicationTable/t9_multiplicationTable.iml" />
+    </modules>
+  </component>
+</project>
